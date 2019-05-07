@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "362755922202",
+    "firebase_url": "https://csgoapp-10c61.firebaseio.com",
+    "project_id": "csgoapp-10c61",
+    "storage_bucket": "csgoapp-10c61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362755922202:android:38c875ac574cc44c",
+        "android_client_info": {
+          "package_name": "com.example.csgoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362755922202-pbcklhhnjotooitrbnebn4s130vor3ku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.csgoapp",
+            "certificate_hash": "2ed792cba3dc139079bce9ef4ac405067e23eaea"
+          }
+        },
+        {
+          "client_id": "362755922202-6i0pji9darhkmmvu9ssskga28223ne4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFfxiuBB1n8y3HxcJl9zzITVfyc4QfvCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362755922202-6i0pji9darhkmmvu9ssskga28223ne4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
